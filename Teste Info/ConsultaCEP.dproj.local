@@ -11,12 +11,12 @@
     <Transaction>2020/04/11 09:41:02.000.156,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/04/12 08:03:04.000.904,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/01/14 15:38:19.000.065,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/01/14 15:38:50.000.563,C:\Temp\Teste Info\frm_principal.dfm=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/01/14 15:38:50.000.563,C:\Temp\Teste Info\frm_principal.pas=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/01/14 15:39:02.000.899,C:\Temp\Teste Info\ConsultaCEP.dproj=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/14 15:38:50.000.563,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Temp\Teste Info\frm_principal.dfm</Transaction>
+    <Transaction>2022/01/14 15:38:50.000.563,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Temp\Teste Info\frm_principal.pas</Transaction>
+    <Transaction>2022/01/14 15:39:02.000.899,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Temp\Teste Info\ConsultaCEP.dproj</Transaction>
     <Transaction>2022/01/14 15:40:12.000.737,C:\Temp\Teste Info\frm_principal.pas=</Transaction>
     <Transaction>2022/01/14 15:40:17.000.066,=C:\Temp\Teste Info\Unit1.pas</Transaction>
-    <Transaction>2022/01/14 15:40:30.000.810,C:\Temp\Teste Info\frm_cadastro_cliente.dfm=C:\Temp\Teste Info\Unit1.dfm</Transaction>
-    <Transaction>2022/01/14 15:40:30.000.810,C:\Temp\Teste Info\frm_cadastro_cliente.pas=C:\Temp\Teste Info\Unit1.pas</Transaction>
+    <Transaction>2022/01/14 15:40:30.000.810,C:\Temp\Teste Info\Unit1.pas=C:\Temp\Teste Info\frm_cadastro_cliente.pas</Transaction>
+    <Transaction>2022/01/14 15:40:30.000.810,C:\Temp\Teste Info\Unit1.dfm=C:\Temp\Teste Info\frm_cadastro_cliente.dfm</Transaction>
   </Transactions>
 </BorlandProject>

@@ -359,6 +359,9 @@ begin
 
   EnviarEmail('Cadastro de Clientes', edt_email.Text, arquivo, memo1.Lines);
 
+  Sleep(500);
+  DeleteFile(arquivo);
+
   MessageBox(0, PChar('Dados gravados com sucesso'), PChar('Aviso'), MB_ICONINFORMATION or MB_OK);
   sbtnovoClick(self);
 
